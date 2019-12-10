@@ -1,0 +1,3 @@
+## Javascript.info Chapter "Scrolling" Task 3 "Load Visible Images"
+
+This is my solution for the "Load Visible Images" task in the javascript.info chpater "Scrolling".  We only have to add code to the function isVisible().  The rest of the code is given for the task.  The code I used is inspired by the second answer to [this](https://stackoverflow.com/questions/487073/how-to-check-if-element-is-visible-after-scrolling) StackOverflow question.
